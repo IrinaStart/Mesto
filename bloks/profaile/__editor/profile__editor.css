@@ -1,0 +1,22 @@
+.profile__editor {
+    margin: 0;
+    padding: 0;
+    min-width: 30px;
+    min-height: 30px;
+    border: 1px solid #FFF;
+    background: transparent url('../../../imege/pencil.svg') no-repeat center;
+    transition: all 0.4s ease-in-out;
+  }
+  
+  .profile__editor:hover {
+    opacity: 0.6;
+    cursor: pointer;
+  }
+
+  @media screen and (max-width: 680px) {
+    .profile__editor {
+      min-width: 18px;
+      min-height: 18px;
+      background-size: 7.5px;
+    }
+  }

@@ -1,0 +1,4 @@
+.cards__element {
+    display: flex;
+    justify-content: space-around;  
+}

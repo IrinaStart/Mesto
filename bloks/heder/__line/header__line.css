@@ -1,0 +1,10 @@
+.header__line {
+    width: 880 px;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 1px;
+    background: #545454;
+    margin-bottom: 50px;
+}

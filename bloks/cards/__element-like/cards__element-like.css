@@ -1,0 +1,7 @@
+.cards__element-like {
+    background-image: url('../../../imege/heart.svg');
+    width: 22px;
+    height: 19px;
+    border-width: 0;
+    background-position: center;
+}

@@ -1,0 +1,31 @@
+@import url('../styles/normalaiz.css');
+
+@import url('../bloks/body/body.css');
+@import url('../bloks/page/page.css');
+
+
+@import url('../Kusto/bloks/heder/__logo/header__logo.css');
+@import url('../bloks/heder/__line/header__line.css');
+@import url('../bloks/heder/heder.css');
+
+@import url('../bloks/profaile/__avatar/profile__avatar.css');
+@import url('../bloks/profaile/__editor/profile__editor.css');
+@import url('../bloks/profaile/__info/profile__info.css');
+@import url('../bloks/profaile/__job/profile__job.css');
+@import url('../bloks/profaile/__name/profile__name.css');
+@import url('../bloks/profaile/__settings/profile__settings.css');
+@import url('../bloks/profaile/profaile.css');
+@import url('../bloks/profaile/__add/profile__add.css');
+@import url('../bloks/profaile/__avatar-edit/profile__avatar-edit.css');
+@import url('../bloks/profaile/__add-mesto/profile__add-mesto.css');
+
+@import url('../bloks/group-cards/group-cards.css');
+
+@import url('../bloks/cards/cards.css');
+@import url('../bloks/cards/__element/cards__element.css');
+@import url('../bloks/cards/__element-like/cards__element-like.css');
+@import url('../bloks/cards/__element-text/cards__element-text.css');
+@import url('../bloks/cards/__view/cards__view.css');
+
+
+@import url('../bloks/footer/__about/footer__about.css');

@@ -1,0 +1,24 @@
+.group-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    max-width: 880px;
+    margin-top: 40px;
+}
+
+@media screen and (min-width: 680px) and (max-width: 990px) {
+    .group-cards {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        max-width: 680px;
+        margin-top: 40px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 680px) {
+    .group-cards {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin-top: 40px;
+    }
+}

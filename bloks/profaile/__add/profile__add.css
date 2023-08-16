@@ -1,0 +1,19 @@
+.profile__add {
+  min-width: 150px;
+  min-height: 50px;
+  border: 2px solid #FFF;
+  transition: all 0.4s ease-in-out;
+  background: transparent url('../../../imege/add.svg') no-repeat center;
+}
+
+.profile__add:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 680px) {
+  .profile__add {
+    min-width: 282px;
+    background-size: 16px;
+  }
+}
